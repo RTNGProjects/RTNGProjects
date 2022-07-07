@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RTNGProjects
-- 👀 I’m interested in developing expert proficiency in many languages of code
+- 👀 I’m interested in developing expert proficiency in all of the most widely used languages of code
 - 🌱 I’m currently learning advanced JavaScript and React.js
 - 💞️ I’m looking to collaborate on anything 😄
 - 📫 Reach me via e-mail: rtngprojects@gmail.com
